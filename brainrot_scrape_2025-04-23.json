@@ -1,0 +1,26 @@
+{
+  "hackernews": [
+    {
+      "title": "Atuin Desktop: Runbooks That Run",
+      "link": "https://blog.atuin.sh/atuin-desktop-runbooks-that-run/"
+    },
+    {
+      "title": "Sapphire: Rust based package manager for macOS (Homebrew replacement)",
+      "link": "https://github.com/alexykn/sapphire"
+    },
+    {
+      "title": "ClickHouse gets lazier and faster: Introducing lazy materialization",
+      "link": "https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization"
+    },
+    {
+      "title": "Algebraic Semantics for Machine Knitting",
+      "link": "https://uwplse.org/2025/03/31/Algebraic-Knitting.html"
+    },
+    {
+      "title": "I should have loved biology too",
+      "link": "https://nehalslearnings.substack.com/p/i-should-have-loved-biology-too"
+    }
+  ],
+  "reddit": [],
+  "toolify": []
+}
