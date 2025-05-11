@@ -44,5 +44,4 @@ Alsp might as well build something dumb and make it smart.
 
 **David Vasquez**  
 Building in public. Follow the journey:
-- [Twitter](https://twitter.com/yourhandle)
 - [GitHub](https://github.com/vasquezd21)
